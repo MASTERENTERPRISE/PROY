@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {}
+    "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {}
   },
   "projects": {
-    "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {
+    "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
+        "projectUniqueName": "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
         "projectName": "MASTER_ENTERPRISE",
-        "projectPath": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
+        "projectPath": "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\obj\\",
+        "outputPath": "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

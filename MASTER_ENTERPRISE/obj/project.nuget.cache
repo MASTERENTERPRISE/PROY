@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YRPZEVJt/1xv53hAMp8+5cYF+MW8KGCV4VJDBNgOWd9KfPob4l0YyXxGkXcmgz8IcPmB4wM5Npla59HDJmJ1Vw==",
+  "dgSpecHash": "CbeNtV1HXaTYsHrw3CoXUh/d54KOBRQa49lHzl8tgcWQURfYLqVjrpmMjAFG2kyw5nj1sEaf2VD6v8C4El6dZQ==",
   "success": true,
-  "projectFilePath": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
+  "projectFilePath": "D:\\2do_clone\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
   ],
