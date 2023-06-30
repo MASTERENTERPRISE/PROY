@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace MASTER_ENTERPRISE
 {
-    public partial class Form6 : Form
+    public partial class Form9 : Form
     {
-        public Form6()
+        public Form9()
         {
             InitializeComponent();
-        }
-
-        private void groupBox1_Enter(object sender, EventArgs e)
-        {
-
         }
     }
 }

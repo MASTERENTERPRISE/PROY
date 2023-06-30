@@ -61,6 +61,12 @@
             label18 = new Label();
             label19 = new Label();
             pictureBox7 = new PictureBox();
+            label20 = new Label();
+            label21 = new Label();
+            label22 = new Label();
+            label23 = new Label();
+            label24 = new Label();
+            label25 = new Label();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox3).BeginInit();
@@ -104,9 +110,11 @@
             // 
             // pictureBox2
             // 
+            pictureBox2.Image = Properties.Resources._20_litros;
             pictureBox2.Location = new Point(153, 107);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(99, 73);
+            pictureBox2.Size = new Size(99, 91);
+            pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 3;
             pictureBox2.TabStop = false;
             // 
@@ -115,9 +123,9 @@
             label2.AutoSize = true;
             label2.Location = new Point(4, 120);
             label2.Name = "label2";
-            label2.Size = new Size(143, 15);
+            label2.Size = new Size(83, 15);
             label2.TabIndex = 9;
-            label2.Text = "NOMBRE DEL PRODUCTO";
+            label2.Text = "Fresh ME 20 Lt";
             // 
             // label8
             // 
@@ -134,9 +142,9 @@
             label14.AutoSize = true;
             label14.Location = new Point(280, 122);
             label14.Name = "label14";
-            label14.Size = new Size(47, 15);
+            label14.Size = new Size(35, 15);
             label14.TabIndex = 21;
-            label14.Text = "9999 BS";
+            label14.Text = "70 BS";
             // 
             // iconButton1
             // 
@@ -175,9 +183,9 @@
             label3.AutoSize = true;
             label3.Location = new Point(280, 235);
             label3.Name = "label3";
-            label3.Size = new Size(47, 15);
+            label3.Size = new Size(35, 15);
             label3.TabIndex = 31;
-            label3.Text = "9999 BS";
+            label3.Text = "15 BS";
             // 
             // label4
             // 
@@ -191,17 +199,19 @@
             // label5
             // 
             label5.AutoSize = true;
-            label5.Location = new Point(4, 233);
+            label5.Location = new Point(4, 220);
             label5.Name = "label5";
-            label5.Size = new Size(143, 15);
+            label5.Size = new Size(123, 15);
             label5.TabIndex = 29;
-            label5.Text = "NOMBRE DEL PRODUCTO";
+            label5.Text = "Fresh ME Limon 1.5 Lt";
             // 
             // pictureBox3
             // 
-            pictureBox3.Location = new Point(153, 220);
+            pictureBox3.Image = Properties.Resources.limon;
+            pictureBox3.Location = new Point(153, 219);
             pictureBox3.Name = "pictureBox3";
             pictureBox3.Size = new Size(99, 73);
+            pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox3.TabIndex = 28;
             pictureBox3.TabStop = false;
             // 
@@ -226,9 +236,9 @@
             label6.AutoSize = true;
             label6.Location = new Point(280, 339);
             label6.Name = "label6";
-            label6.Size = new Size(47, 15);
+            label6.Size = new Size(23, 15);
             label6.TabIndex = 36;
-            label6.Text = "9999 BS";
+            label6.Text = " BS";
             // 
             // label7
             // 
@@ -242,17 +252,19 @@
             // label9
             // 
             label9.AutoSize = true;
-            label9.Location = new Point(4, 337);
+            label9.Location = new Point(4, 326);
             label9.Name = "label9";
-            label9.Size = new Size(143, 15);
+            label9.Size = new Size(130, 15);
             label9.TabIndex = 34;
-            label9.Text = "NOMBRE DEL PRODUCTO";
+            label9.Text = "Fresh ME Naranja 1.5 Lt";
             // 
             // pictureBox4
             // 
+            pictureBox4.Image = Properties.Resources.naranja_original;
             pictureBox4.Location = new Point(153, 324);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(99, 73);
+            pictureBox4.Size = new Size(99, 83);
+            pictureBox4.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox4.TabIndex = 33;
             pictureBox4.TabStop = false;
             // 
@@ -277,9 +289,9 @@
             label10.AutoSize = true;
             label10.Location = new Point(689, 339);
             label10.Name = "label10";
-            label10.Size = new Size(47, 15);
+            label10.Size = new Size(35, 15);
             label10.TabIndex = 51;
-            label10.Text = "9999 BS";
+            label10.Text = "15 BS";
             // 
             // label11
             // 
@@ -293,17 +305,19 @@
             // label12
             // 
             label12.AutoSize = true;
-            label12.Location = new Point(413, 337);
+            label12.Location = new Point(413, 326);
             label12.Name = "label12";
-            label12.Size = new Size(143, 15);
+            label12.Size = new Size(112, 15);
             label12.TabIndex = 49;
-            label12.Text = "NOMBRE DEL PRODUCTO";
+            label12.Text = "Fresh ME Piña 1.5 Lt";
             // 
             // pictureBox5
             // 
+            pictureBox5.Image = Properties.Resources.NARANJA;
             pictureBox5.Location = new Point(562, 324);
             pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(99, 73);
+            pictureBox5.Size = new Size(99, 83);
+            pictureBox5.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox5.TabIndex = 48;
             pictureBox5.TabStop = false;
             // 
@@ -328,9 +342,9 @@
             label13.AutoSize = true;
             label13.Location = new Point(689, 235);
             label13.Name = "label13";
-            label13.Size = new Size(47, 15);
+            label13.Size = new Size(35, 15);
             label13.TabIndex = 46;
-            label13.Text = "9999 BS";
+            label13.Text = "20 BS";
             // 
             // label15
             // 
@@ -344,17 +358,19 @@
             // label16
             // 
             label16.AutoSize = true;
-            label16.Location = new Point(413, 233);
+            label16.Location = new Point(413, 220);
             label16.Name = "label16";
-            label16.Size = new Size(143, 15);
+            label16.Size = new Size(77, 15);
             label16.TabIndex = 44;
-            label16.Text = "NOMBRE DEL PRODUCTO";
+            label16.Text = "Fresh ME 3 Lt";
             // 
             // pictureBox6
             // 
-            pictureBox6.Location = new Point(562, 220);
+            pictureBox6.Image = Properties.Resources._3_litros;
+            pictureBox6.Location = new Point(562, 210);
             pictureBox6.Name = "pictureBox6";
-            pictureBox6.Size = new Size(99, 73);
+            pictureBox6.Size = new Size(99, 82);
+            pictureBox6.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox6.TabIndex = 43;
             pictureBox6.TabStop = false;
             // 
@@ -379,9 +395,9 @@
             label17.AutoSize = true;
             label17.Location = new Point(689, 122);
             label17.Name = "label17";
-            label17.Size = new Size(47, 15);
+            label17.Size = new Size(35, 15);
             label17.TabIndex = 41;
-            label17.Text = "9999 BS";
+            label17.Text = "30 BS";
             // 
             // label18
             // 
@@ -397,17 +413,67 @@
             label19.AutoSize = true;
             label19.Location = new Point(413, 120);
             label19.Name = "label19";
-            label19.Size = new Size(143, 15);
+            label19.Size = new Size(77, 15);
             label19.TabIndex = 39;
-            label19.Text = "NOMBRE DEL PRODUCTO";
+            label19.Text = "Fresh ME 7 Lt";
             // 
             // pictureBox7
             // 
+            pictureBox7.Image = Properties.Resources._7_litros;
             pictureBox7.Location = new Point(562, 107);
             pictureBox7.Name = "pictureBox7";
-            pictureBox7.Size = new Size(99, 73);
+            pictureBox7.Size = new Size(99, 91);
+            pictureBox7.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox7.TabIndex = 38;
             pictureBox7.TabStop = false;
+            // 
+            // label20
+            // 
+            label20.Location = new Point(4, 141);
+            label20.Name = "label20";
+            label20.Size = new Size(143, 39);
+            label20.TabIndex = 53;
+            label20.Text = "Agua Mineral refrescante 20 litros";
+            // 
+            // label21
+            // 
+            label21.Location = new Point(4, 241);
+            label21.Name = "label21";
+            label21.Size = new Size(143, 51);
+            label21.TabIndex = 54;
+            label21.Text = "Bedida refrescante base de agua y zumo sensacion limon 1.5 Litros";
+            // 
+            // label22
+            // 
+            label22.Location = new Point(4, 346);
+            label22.Name = "label22";
+            label22.Size = new Size(143, 51);
+            label22.TabIndex = 55;
+            label22.Text = "Bedida refrescante base de agua y zumo sensacion naranja 1.5 Litros";
+            // 
+            // label23
+            // 
+            label23.Location = new Point(413, 141);
+            label23.Name = "label23";
+            label23.Size = new Size(143, 39);
+            label23.TabIndex = 56;
+            label23.Text = "Agua Mineral refrescante 7 litros";
+            // 
+            // label24
+            // 
+            label24.Location = new Point(413, 253);
+            label24.Name = "label24";
+            label24.Size = new Size(143, 39);
+            label24.TabIndex = 57;
+            label24.Text = "Agua Mineral refrescante 3 litros";
+            // 
+            // label25
+            // 
+            label25.Location = new Point(413, 346);
+            label25.Name = "label25";
+            label25.Size = new Size(143, 51);
+            label25.TabIndex = 58;
+            label25.Text = "Bedida refrescante base de agua y zumo sensacion piña 1.5 Litros";
             // 
             // Form1
             // 
@@ -415,6 +481,12 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(834, 431);
+            Controls.Add(label25);
+            Controls.Add(label24);
+            Controls.Add(label23);
+            Controls.Add(label22);
+            Controls.Add(label21);
+            Controls.Add(label20);
             Controls.Add(iconButton4);
             Controls.Add(label10);
             Controls.Add(label11);
@@ -496,5 +568,11 @@
         private Label label18;
         private Label label19;
         private PictureBox pictureBox7;
+        private Label label20;
+        private Label label21;
+        private Label label22;
+        private Label label23;
+        private Label label24;
+        private Label label25;
     }
 }

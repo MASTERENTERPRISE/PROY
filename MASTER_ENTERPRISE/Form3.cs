@@ -37,7 +37,7 @@ namespace MASTER_ENTERPRISE
 
         private void button4_Click(object sender, EventArgs e)
         {
-            Form reportar= new Form8();
+            Form reportar = new Form8();
             reportar.ShowDialog();
         }
     }

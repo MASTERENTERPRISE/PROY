@@ -19,8 +19,25 @@ namespace MASTER_ENTERPRISE
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form menu_ad = new Form3();
-            menu_ad.ShowDialog();
+            string cuenta = textBox1.Text;
+            string password = textBox2.Text;
+            if (cuenta == "admin" && password == "123456")
+            {
+                MessageBox.Show("BIENVENIDO SEÑOR GERENTE");
+                Form menu_ad = new Form3();
+                menu_ad.ShowDialog();
+            }
+            else
+            {   if (cuenta == "admin" && password == "1234")
+                {
+                    MessageBox.Show("BIENVENIDO SEÑORITA SECRETARIA");
+                    Form menu_ad = new Form3();
+                    menu_ad.ShowDialog();
+                }
+                else {
+                    MessageBox.Show("Error!!! Cuenta o Password incorrecto");
+                }
+            }
         }
     }
 }

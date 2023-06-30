@@ -118,10 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="logo empresa agua" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\logo empresa agua.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="7_litros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\7_litros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="3_litros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\3_litros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="107831" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\107831.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="naranja_original" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\naranja_original.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logo empresa agua" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logo empresa agua.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="20_litros" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\20_litros.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="limon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\limon.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="NARANJA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\NARANJA.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

@@ -16,5 +16,16 @@ namespace MASTER_ENTERPRISE
         {
             InitializeComponent();
         }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void iconButton1_Click(object sender, EventArgs e)
+        {
+            Form detalle= new Form9();
+            detalle.ShowDialog();
+        }
     }
 }

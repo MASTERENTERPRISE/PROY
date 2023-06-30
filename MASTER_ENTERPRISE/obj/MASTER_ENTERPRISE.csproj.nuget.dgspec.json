@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SIS_2420\\PROTECTO\\PROGRAMA\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {}
+    "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {}
   },
   "projects": {
-    "D:\\SIS_2420\\PROTECTO\\PROGRAMA\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {
+    "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SIS_2420\\PROTECTO\\PROGRAMA\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
+        "projectUniqueName": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
         "projectName": "MASTER_ENTERPRISE",
-        "projectPath": "D:\\SIS_2420\\PROTECTO\\PROGRAMA\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
+        "projectPath": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\SIS_2420\\PROTECTO\\PROGRAMA\\MASTER_ENTERPRISE\\MASTER_ENTERPRISE\\obj\\",
+        "outputPath": "D:\\cloneproyecto\\PROY\\MASTER_ENTERPRISE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
